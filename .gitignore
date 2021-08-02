@@ -1,0 +1,7 @@
+Task.txt
+node_modules
+package-lock.json
+dist
+.cache
+.DS_Store
+Thumbs.db
